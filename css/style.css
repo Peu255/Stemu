@@ -1,0 +1,232 @@
+body{
+    background-color: #313131;
+}
+
+
+.wrapper{
+    height: 100vh;
+    width: 100vw;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    background-color: #313131;
+    background-image: url('6524531.png');
+}
+
+.top{
+    background-color: #272727;
+    width: 100vw;
+    height: 14vh;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: #272727;
+    box-shadow: 0px 8px 8px #00000040;
+}
+
+a{
+    color: #2a6bf8;
+    text-align: center;
+
+}
+
+.menu{
+    background-color: #282828;
+    width: 9vw;
+    height: 62vh;
+    position: absolute;
+    left: 0px;
+    top: 18vh;
+    background: #282828da;
+    box-shadow: 4px 0px 4px 4px #00000040;
+    min-height: 40px;
+    min-width: 10%
+}
+
+h1{
+    font-size: 1.5625em;
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+#link{
+    color: #1584eb;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#link:hover{
+    color: #862dec;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.logo{
+    max-width: 15vw;
+    max-height: 14vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.bsneslogo{
+    max-width: 25vw;
+    max-height: 25vh;
+    display: block;
+    margin-left: 46.5%;
+    margin-right: 50%;
+    margin-top: 130px;
+}
+
+.snespage{
+    color: #ffffff;
+    font-size: 2.5em;
+    text-align: center;
+    top: 0;
+    margin-left: 6%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+p{
+    color: #ffffff;
+    font-size: 1.5625em;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 25%;
+    margin-right: 20%;
+}
+
+#downloademu{
+    color:#1584eb;
+    margin-left: 25%;
+    margin-right: 15%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 1.25em;
+}
+
+#downloademu:hover{
+    color:  #862dec;
+    margin-left: 25%;
+    margin-right: 15%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 1.25em;
+}
+
+#download{
+    color:#1584eb;
+    margin-left: 16%;
+    margin-right: 15%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 1.25em;
+}
+
+#download:hover{
+    color:  #862dec;
+    margin-left: 16%;
+    margin-right: 15%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 1.25em;
+}
+
+.ssflogo{
+    max-width: 15vw;
+    max-height: 15vh;
+    display: block;
+    margin-left: 46%;
+    margin-right: 45%;
+    margin-top: 150px;
+}
+
+.indextitle{
+    color: #ffffffbd;
+    margin-top: 250px;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 3.125em;
+    text-decoration: underline;
+    text-shadow: 1px 1px 10px;
+    margin-left: 25%;
+    margin-right: 22%;
+}
+
+.alert{
+    color: #ffffffaf;
+}
+
+.footer{
+    background-color: #202020;
+    width: 100vw;
+    height: 6vh;
+    top: 94vh;
+    left: 0px;
+    position: absolute;
+    background: #2020206b;
+    box-shadow: inset 0px 5px 9px #00000040;
+}
+
+.textfoot{
+    color: #ffffffdc;
+    font-size: 15px;
+    text-shadow: 1px 1px 10px;
+}
+
+.ssfpage{
+    color: #ffffff;
+    font-size: 2.5em;
+    text-align: center;
+    top: 50px;
+    margin-left: 6%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.melonlogo{
+    max-width: 25vw;
+    max-height: 25vh;
+    display: block;
+    margin-left: 46%;
+    margin-right: 45%;
+    margin-top: 150px;
+}
+
+.melonpage{
+    color: #ffffff;
+    font-size: 2.5em;
+    text-align: center;
+    top: 50px;
+    margin-left: 4%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.mgbalogo{
+    max-width: 22vw;
+    max-height: 22vh;
+    display: block;
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-top: 150px;
+}
+
+.mgbapage{
+    color: #ffffff;
+    font-size: 2.5em;
+    text-align: center;
+    top: 50px;
+    margin-left: 4%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.kegalogo{
+    max-width: 25vw;
+    max-height: 25vh;
+    display: block;
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-top: 150px;
+}
+
+.kegapage{
+    color: #ffffff;
+    font-size: 2.5em;
+    text-align: center;
+    top: 50px;
+    margin-left: 2%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
