@@ -12,6 +12,8 @@ body{
     background-color: #313131;
     background-image: url('6524531.png');
     background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 .top{
