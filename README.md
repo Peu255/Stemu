@@ -72,3 +72,5 @@ For Kega Fusion:
 
 
 Thanks to support me 😄🙃
+
+You're awesome 🤩
