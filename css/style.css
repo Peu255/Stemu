@@ -25,6 +25,7 @@ body{
     left: 0px;
     background: #272727;
     box-shadow: 0px 8px 8px #00000040;
+    float: left;
 }
 
 a{
