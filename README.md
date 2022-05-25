@@ -5,26 +5,23 @@ Stemu is an emulator web shop that i made to make the emulation community better
 
 Now we have a lot of games to you enjoy!
 
-For Bsnes: -The Legend of Zelda - A Link to the Past
-           
+For Bsnes: 
+
+           -The Legend of Zelda - A Link to the Past
            -Street Fighter II Turbo
-           
            -Super Mario Kart
-           
            -Super Mario World
-           
            -Super Mario World 2 - Yoshi's Island
-           
            -Super Metroid
-           
            -Top Gear
-           
            -Top Gear 2
-           
            -Ultimate Mortal Kombat 3
            
 
-For SSF: -Mega Man X4
+For SSF: 
+
+         -Mega Man X4
+         
          -Mortal Kombat Trilogy
          -Night Warriors - Darkstalkers Revenge
          -Resident Evil
