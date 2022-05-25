@@ -20,15 +20,16 @@ For Bsnes:
 
 For SSF: 
 
-         -Mega Man X4
-         
+         -Mega Man X4 
          -Mortal Kombat Trilogy
          -Night Warriors - Darkstalkers Revenge
          -Resident Evil
          -Virtua Fighter 2
          
          
-For MelonDS: -Final Fantasy III
+For MelonDS: 
+
+             -Final Fantasy III
              -Final Fantasy IV
              -Kirby Mass Attack
              -New Super Mario Bros.
@@ -41,7 +42,9 @@ For MelonDS: -Final Fantasy III
              -Professor Layton and the Curious Village
              
              
-For mGBA: -Fire Emblem - The Binding Blade
+For mGBA: 
+
+          -Fire Emblem - The Binding Blade
           -The Legend of Zelda - The Minish Cap
           -Metroid Fusion
           -Metroid - Zero Mission
@@ -52,7 +55,9 @@ For mGBA: -Fire Emblem - The Binding Blade
           -Pokemon - Sapphire Version
           
           
-For Kega Fusion: -Castlevania - Bloodlines
+For Kega Fusion: 
+
+                 -Castlevania - Bloodlines
                  -Sonic & Knuckles + Sonic The Hedgehog 3
                  -Sonic The Hedgehog
                  -Sonic The Hedgehog 2
