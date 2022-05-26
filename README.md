@@ -3,7 +3,7 @@ Stemu is an emulator web shop that I made to make the emulation community better
 
 # New Games Added ✔️
 
-Now we have a lot of games to you enjoy!
+Now we have a lot of games to you enjoy! 🥳
 
 For Bsnes: 
 
@@ -73,4 +73,4 @@ For Kega Fusion:
 
 Thanks to support me 😄🙃
 
-You're awesome 🤩
+You're awesome! 🤩
