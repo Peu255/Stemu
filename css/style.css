@@ -29,16 +29,16 @@ body{
 
 a{
     color: #2a6bf8;
-    text-align: center;
+    margin-left: 0.3vw;
 
 }
 
 .menu{
     background-color: #282828;
-    width: 9vw;
+    width: 12vw;
     height: 62vh;
     position: absolute;
-    left: 0px;
+    left: 1vw;
     top: 18vh;
     background: #282828da;
     box-shadow: 4px 0px 4px 4px #00000040;
@@ -50,6 +50,9 @@ a{
     font-size: 1.5vw;
     color: #ffffff;
     font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #link{
