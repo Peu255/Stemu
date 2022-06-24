@@ -1,6 +1,8 @@
 # Stemu 
 Stemu is an emulator web shop that I made to make the emulation community better. However, I keep updating the web page.
 
+If you have some solution, please contact me.
+
 # New Games Added ✔️
 
 Now we have a lot of games to you enjoy! 👌
