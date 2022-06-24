@@ -76,10 +76,10 @@ a{
 }
 
 .bsneslogo{
-    max-width: 25vw;
-    max-height: 25vh;
+    max-width: 20vw;
+    max-height: 20vh;
     display: block;
-    margin-left: 46.5%;
+    margin-left: 47.5%;
     margin-right: 50%;
     margin-top: 130px;
 }
@@ -193,10 +193,10 @@ p{
 }
 
 .melonlogo{
-    max-width: 25vw;
-    max-height: 25vh;
+    max-width: 20vw;
+    max-height: 20vh;
     display: block;
-    margin-left: 46%;
+    margin-left: 47%;
     margin-right: 45%;
     margin-top: 150px;
 }
@@ -211,10 +211,10 @@ p{
 }
 
 .mgbalogo{
-    max-width: 22vw;
-    max-height: 22vh;
+    max-width: 20vw;
+    max-height: 20vh;
     display: block;
-    margin-left: 45%;
+    margin-left: 46%;
     margin-right: 45%;
     margin-top: 150px;
 }
